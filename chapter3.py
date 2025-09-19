@@ -8,3 +8,4 @@ def prepare_for_battle():
     print("The demon’s shattered pieces began to reassemble, more furious than before.")
 arrival_of_allies()
 prepare_for_battle()
+
